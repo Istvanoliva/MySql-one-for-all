@@ -12,7 +12,6 @@ Normalize uma tabela na terceira forma normal e acesse as informações desta ta
 
 ## SUMÁRIO
 
-- [SUMÁRIO](#sumário)
 - [Habilidades](#habilidades)
 - [Como desenvolver](#como-desenvolver)
   - [Problema a ser resolvido](#problema-a-ser-resolvido)
